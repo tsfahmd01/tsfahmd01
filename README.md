@@ -1,143 +1,114 @@
-<p align="center">
-  <img src="cyber_forest_banner.png" alt="cyberHiker Cyber Forest Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">🌲 Tauseef Ahmed | cyberHiker</h1>
-<p align="center">
-  <strong>Cybersecurity Researcher & Practitioner • eJPT Certified • Almost Ecologist</strong>
-</p>
-<p align="center">
-  <em>“Tracking pathways and hardening environments — whether they run on silicon or soil.”</em>
-</p>
+# Tauseef Ahmed (cyberHiker)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsfahmd01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@tsfahmd01"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://app.hackthebox.com/users/2147210"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" /></a>
-  <a href="https://tryhackme.com/p/tsfahmd01"><img src="https://img.shields.io/badge/TryHackMe-333333?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a>
-  <a href="mailto:tsfahmd01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**Hardening environments and tracking pathways — whether they run on silicon or soil.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tsfahmd01-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/tsfahmd01)
+[![Medium](https://img.shields.io/badge/Medium-tsfahmd01-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tsfahmd01)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2147210)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tsfahmd01)
+[![Email](https://img.shields.io/badge/Email-tsfahmd01-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsfahmd01@gmail.com)
 
-### 📖 The cyberHiker Codex
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚔️ The Cyber Side</h4>
-      <p>I’m a <strong>cybersecurity researcher and practitioner</strong> focused on turning curiosity and controlled risk into stronger, more resilient environments. I operate across the full security spectrum — analyzing offensive vectors, implementing defensive protections, researching AI-driven security paradigms, and ensuring structural compliance.</p>
-      <p>I want to experience the real side of security operations in an active work environment where I can grow professionally. Having earned the <strong>eJPT certification</strong>, I actively participate in CTFs and research to polish my methodologies, audit systems, and harden distributed architectures.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌲 The Forest Side</h4>
-      <p>When I'm not in front of the terminal, I'm outdoors exploring trails and birdwatching with my buddies. I'm not just an average observer — ask me about <strong>ecology, taxonomy, ferality</strong>, and evolutionary biology, and you'll see my eyes light up.</p>
-      <p>Be it system security or understanding natural biological systems, I dive deep. This persistent drive keeps my <strong>situational awareness sharp and my patience steady</strong> — essential traits I bring into every assessment, research project, and audit.</p>
-    </td>
-  </tr>
-</table>
+I’m a cybersecurity professional and researcher focused on turning curiosity and controlled risk into stronger, more resilient environments. I operate across the full security spectrum, crafting offensive vectors, implementing defensive protections, researching AI-driven security paradigms, and ensuring structural compliance. Having earned the **eJPT certification**, I actively participate in CTFs and research to polish my methodologies, audit systems, and harden distributed architectures.
+
+When I'm not in front of the terminal, I'm outdoors exploring trails and birdwatching with my buddies. I'm not just an average observer — ask me about **ecology, taxonomy and ferality**, and you'll see my eyes light up.
+
+Be it system security or understanding natural ecological systems, I dive deep. This persistent drive keeps my **situational awareness sharp and my patience steady** — essential traits I bring into every assessment, research project, and audit.
 
 ---
 
-### 🛡️ Technical Arsenal
+## Certifications
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>⚔️ Offensive & Exploitation</strong><br>
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=rapid7&logoColor=red" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Nmap-4F5D95?style=flat-square&logo=network&logoColor=white" alt="Nmap" />
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Nessus-002F6C?style=flat-square&logo=tenable&logoColor=white" alt="Nessus" />
-      <img src="https://img.shields.io/badge/John_The_Ripper-555555?style=flat-square&alt=John" />
-      <img src="https://img.shields.io/badge/CyberChef-388E3C?style=flat-square&alt=CyberChef" /><br>
-      <br>
-      <strong>🛡️ Threat Analysis & Defense</strong><br>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green" alt="Splunk" />
-      <img src="https://img.shields.io/badge/SOC_Operations-2E7D32?style=flat-square&alt=SOC" /><br>
-      <br>
-      <strong>📋 Frameworks & Standards</strong><br>
-      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square" alt="MITRE ATT&CK" />
-      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-      <img src="https://img.shields.io/badge/PTES-333333?style=flat-square" alt="PTES" />
-      <img src="https://img.shields.io/badge/ISO_27001-008080?style=flat-square" alt="ISO 27001" />
-      <img src="https://img.shields.io/badge/NIST_CSF-003366?style=flat-square" alt="NIST CSF" /><br>
-      <br>
-      <strong>💻 Scripting & Logic</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>🖥️ Environments & Systems</strong><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Fedora-3C6EB4?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br>
-      <br>
-      <strong>🎯 CTF Arenas</strong><br>
-      <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HTB" />
-      <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=flat-square&logo=tryhackme&logoColor=white" alt="THM" />
-      <img src="https://img.shields.io/badge/OverTheWire-555555?style=flat-square" alt="OTW" />
-      <img src="https://img.shields.io/badge/PortSwigger-FF6600?style=flat-square&logo=portswigger&logoColor=white" alt="PortSwigger" />
-      <img src="https://img.shields.io/badge/PicoCTF-1F85DE?style=flat-square" alt="PicoCTF" /><br>
-      <br>
-      <strong>🧠 Specialties & Focus</strong><br>
-      <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AD" />
-      <img src="https://img.shields.io/badge/Web_Pentesting-00B0FF?style=flat-square" alt="Web" />
-      <img src="https://img.shields.io/badge/Network_Security-FFEB3B?style=flat-square&logoColor=black" alt="NetSec" />
-      <img src="https://img.shields.io/badge/Agentic_AI-4CAF50?style=flat-square" alt="Agentic AI" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-0078D4?style=for-the-badge&logo=shield&logoColor=white)](https://certs.ine.com/dad414b8-3065-4095-adca-dd7bdaa94c5d#acc.7x91HAKL)
+&nbsp;&nbsp;
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/YOYD5I4W8LFA)
+
+</div>
 
 ---
 
-### 🎓 Certifications
+## Stack
 
-* 🛡️ **eJPT (eLearnSecurity Junior Penetration Tester)** — *INE (Oct 2025)* | [Verify Credential](https://certs.ine.com/dad414b8-3065-4095-adca-dd7bdaa94c5d#acc.7x91HAKL)
-  * *Skills:* Active Host Discovery, Network Enumeration, Automated & Manual Exploitation, Privilege Escalation, Pivoting.
-* 🛡️ **Google Cybersecurity Professional Certificate** — *Coursera (Mar 2025)* | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/YOYD5I4W8LFA)
-  * *Skills:* Incident Response, SIEM (Splunk/Chronicle), Packet Analysis (Wireshark), Python Automation, Network Defense.
+### ⚔️ Offensive & Exploitation
+<div align="center">
+
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=rapid7&logoColor=red)
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=network&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-002F6C?style=for-the-badge&logo=tenable&logoColor=white)
+
+</div>
+
+### 🛡️ Threat Analysis & Defense
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green)
+
+</div>
+
+### 💻 Languages & Agentic AI
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4CAF50?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### 📋 Frameworks & Standards
+<div align="center">
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-008080?style=for-the-badge)
+
+</div>
+
+### 🖥️ Systems & Platforms
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### 📄 Featured Publications & Research
+## Selected Work
 
-* 🧠 **AI-Cybersecurity Research Paper:** *Federated Learning Poisoning & Defense*
-  * Designed a defense mechanism against Federated Learning client compromises utilizing KDE on CNN feature embeddings.
-* 📝 **Offensive Showcase:** [My PenTest Reports (DVAS-01 & VeCom-01)](https://github.com/tsfahmd01/sample_report)
-  * Publicly hosted sample penetration testing reports demonstrating professional-grade vulnerability reporting, risk scoring, and mitigation recommendations.
-* 🤖 **Machine Learning:** *Book Recommender ML Model*
-  * Developed a content-filtering machine learning model recommendations pipeline.
-* 📄 **Research In Progress:** *Emergent defensive strategies in distributed ecosystems.*
+### [LoMar](https://github.com/tsfahmd01/lomar)
+A local defense framework against client compromises and data poisoning attacks in Federated Learning utilizing Kernel Density Estimation over CNN feature embeddings.
 
----
+### [Patch2Pwn](https://github.com/tsfahmd01/Patch2Pwn)
+An active research framework evaluating the capabilities of open-source Large Language Models in generating functional exploits for memory corruption vulnerabilities using security fixes and CVE metadata.
 
-### 📝 Latest Publications on Medium
+### [Book Recommender](https://github.com/tsfahmd01/book-recommender)
+A machine learning recommendation engine utilizing content-filtering pipelines to deliver personalized book recommendations.
 
-* 🔗 [**Enumeration as a Graph:** How a Different Recon Mindset Took Me From “Found X Vuln” to Full Root Compromise](https://medium.com/@tsfahmd01/enumeration-as-a-graph-how-a-different-recon-mindset-took-me-from-found-x-vuln-to-full-root-0a2ea2e21f89)
-* 🔗 [**When AI Model Learns Lies:** My Federated Learning Poisoning Experiment](https://medium.com/@tsfahmd01/when-ai-model-learns-lies-my-federated-learning-poisoning-experiment-7e7cbc05786e)
-* 🔗 [**I Cleared eJPT:** My First Offensive Security Certification (and What It Really Took)](https://medium.com/@tsfahmd01/i-cleared-ejpt-my-first-offensive-security-certification-and-what-it-really-took-dc6d7873cf5c)
-* 🔗 [**My View on the Jr Penetration Tester Learning Path:** Structured review of TryHackMe roadmap](https://medium.com/@tsfahmd01/my-view-on-the-jr-penetration-tester-learning-path-of-tryhackme-803a3b7afbe8)
+### [Sample Reports](https://github.com/tsfahmd01/sample_report)
+Simulated professional vulnerability disclosure reports (DVAS-01 & VeCom-01) demonstrating threat categorization, CVSS v3.1 scoring, and mitigations.
 
 ---
 
-### 📊 Tactical Metrics (Custom cyberHiker Theme)
+## Blogs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsfahmd01&show_icons=true&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c&count_private=true" alt="Tauseef's GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsfahmd01&layout=compact&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c" alt="Tauseef's Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsfahmd01&background=091209&title=4caf50&currStreakNum=00e676&currStreakLabel=a5d6a7&sideNums=00e676&sideLabels=a5d6a7&dates=a5d6a7&ring=00e676&fire=00e676&stroke=1b431c" alt="Tauseef's Coding Streak" height="170" />
-</p>
+- **[Enumeration as a Graph](https://medium.com/@tsfahmd01/enumeration-as-a-graph-how-a-different-recon-mindset-took-me-from-found-x-vuln-to-full-root-0a2ea2e21f89):** How a different recon mindset took me from “Found X Vuln” to full root compromise.
+- **[When AI Model Learns Lies](https://medium.com/@tsfahmd01/when-ai-model-learns-lies-my-federated-learning-poisoning-experiment-7e7cbc05786e):** An experimental breakdown of Federated Learning poisoning.
+- **[I Cleared eJPT](https://medium.com/@tsfahmd01/i-cleared-ejpt-my-first-offensive-security-certification-and-what-it-really-took-dc6d7873cf5c):** My first offensive security certification (and what it really took).
+- **[My View on the THM Jr Pentester Road](https://medium.com/@tsfahmd01/my-view-on-the-jr-penetration-tester-learning-path-of-tryhackme-803a3b7afbe8):** A structured review of the TryHackMe learning path.
 
 ---
 
-<p align="center">
-  <sub>"In nature, species adapt or go extinct. In security, systems adapt or get breached. Keep tracking, keep hardening." — cyberHiker 🌲</sub>
-</p>
+<div align="center">
+  <sub>"In nature, species adapt or go extinct. In security, systems adapt or get breached. Keep tracking, keep hardening."</sub>
+</div>
