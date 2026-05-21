@@ -1,10 +1,10 @@
 <div align="center">
 
-# Tauseef Ahmed (cyberHiker)
+# Tauseef Ahmed • cyberHiker
 
 **Hardening environments and tracking pathways — whether they run on silicon or soil.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tsfahmd01-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/tsfahmd01)
+[![LinkedIn](https://imgs.search.brave.com/YqKED7yF-aM47MzXliO2g_UlafZKcUmVOnJeMIg3SbU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxpbmtlZGluLWxv/Z28taWNvbi1zdmct/ZG93bmxvYWQtcG5n/LTQzNDc0My5wbmc_/Zj13ZWJwJnc9MTI4)](https://www.linkedin.com/in/tsfahmd01)
 [![Medium](https://img.shields.io/badge/Medium-tsfahmd01-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tsfahmd01)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2147210)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tsfahmd01)
@@ -12,11 +12,11 @@
 
 </div>
 
-I’m a cybersecurity professional and researcher focused on turning curiosity and controlled risk into stronger, more resilient environments. I operate across the full security spectrum, crafting offensive vectors, implementing defensive protections, researching AI-driven security paradigms, and ensuring structural compliance. Having earned the **eJPT certification**, I actively participate in CTFs and research to polish my methodologies, audit systems, and harden distributed architectures.
+I’m a cybersecurity professional and researcher focused on turning curiosity and controlled risk into stronger, more resilient environments. I operate across the full security spectrum, crafting offensive vectors, implementing defensive protections, researching AI-driven security paradigms and ensuring structural compliance. Having earned the **eJPT certification**, I actively participate in CTFs and research to polish my methodologies, audit systems and harden distributed architectures.
 
-When I'm not in front of the terminal, I'm outdoors exploring trails and birdwatching with my buddies. I'm not just an average observer — ask me about **ecology, taxonomy and ferality**, and you'll see my eyes light up.
+When I'm not in front of the terminal, I'm outdoors exploring trails and birdwatching with my buddies. I'm not just an average observer... ask me about **ecology, taxonomy and ferality**, and you'll see my eyes light up.
 
-Be it system security or understanding natural ecological systems, I dive deep. This persistent drive keeps my **situational awareness sharp and my patience steady** — essential traits I bring into every assessment, research project, and audit.
+Be it system security or understanding natural ecological systems, I dive deep. This persistent drive keeps my **situational awareness sharp and my patience steady** — essential traits I bring into every assessment, research project and audit.
 
 ---
 
