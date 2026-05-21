@@ -107,7 +107,7 @@
 
 * 🧠 **AI-Cybersecurity Research Paper:** *Federated Learning Poisoning & Defense*
   * Designed a defense mechanism against Federated Learning client compromises utilizing KDE on CNN feature embeddings.
-* 📝 **Offensive Showcase:** [My PenTest Reports (DVAS-01 & VeCom-01)](https://github.com/tsfahmd001/sample_report)
+* 📝 **Offensive Showcase:** [My PenTest Reports (DVAS-01 & VeCom-01)](https://github.com/tsfahmd01/sample_report)
   * Publicly hosted sample penetration testing reports demonstrating professional-grade vulnerability reporting, risk scoring, and mitigation recommendations.
 * 🤖 **Machine Learning:** *Book Recommender ML Model*
   * Developed a content-filtering machine learning model recommendations pipeline.
@@ -127,13 +127,13 @@
 ### 📊 Tactical Metrics (Custom cyberHiker Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsfahmd001&show_icons=true&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c&count_private=true" alt="Tauseef's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsfahmd01&show_icons=true&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c&count_private=true" alt="Tauseef's GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsfahmd001&layout=compact&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c" alt="Tauseef's Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsfahmd01&layout=compact&bg_color=091209&title_color=4caf50&text_color=a5d6a7&icon_color=00e676&border_color=1b431c" alt="Tauseef's Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsfahmd001&background=091209&title=4caf50&currStreakNum=00e676&currStreakLabel=a5d6a7&sideNums=00e676&sideLabels=a5d6a7&dates=a5d6a7&ring=00e676&fire=00e676&stroke=1b431c" alt="Tauseef's Coding Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsfahmd01&background=091209&title=4caf50&currStreakNum=00e676&currStreakLabel=a5d6a7&sideNums=00e676&sideLabels=a5d6a7&dates=a5d6a7&ring=00e676&fire=00e676&stroke=1b431c" alt="Tauseef's Coding Streak" height="170" />
 </p>
 
 ---
