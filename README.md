@@ -4,11 +4,11 @@
 
 **Hardening environments and tracking pathways — whether they run on silicon or soil.**
 
-<a href="https://www.linkedin.com/in/tsfahmd01" target="_blank"><img src="https://raw.githubusercontent.com/tsfahmd01/tsfahmd01/main/logos/linkedin-logo.svg" width="18" height="18" align="center" /> **LinkedIn**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://medium.com/@tsfahmd01" target="_blank"><img src="https://raw.githubusercontent.com/tsfahmd01/tsfahmd01/main/logos/medium-logo.svg" width="18" height="18" align="center" /> **Medium**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/users/2147210" target="_blank"><img src="https://raw.githubusercontent.com/tsfahmd01/tsfahmd01/main/logos/hack-the-box.svg" width="18" height="18" align="center" /> **Hack The Box**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://tryhackme.com/p/tsfahmd01" target="_blank"><img src="https://raw.githubusercontent.com/tsfahmd01/tsfahmd01/main/logos/tryhackme.svg" width="18" height="18" align="center" /> **TryHackMe**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="mailto:tsfahmd01@gmail.com"><img src="https://raw.githubusercontent.com/tsfahmd01/tsfahmd01/main/logos/gmail.svg" width="18" height="18" align="center" /> **Email**</a>
+<a href="https://www.linkedin.com/in/tsfahmd01" target="_blank"><img src="logos/linkedin-logo.svg" width="18" height="18" align="center" /> **LinkedIn**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://medium.com/@tsfahmd01" target="_blank"><img src="logos/medium-logo.svg" width="18" height="18" align="center" /> **Medium**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/users/2147210" target="_blank"><img src="logos/hack-the-box.svg" width="18" height="18" align="center" /> **Hack The Box**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/tsfahmd01" target="_blank"><img src="logos/tryhackme.svg" width="18" height="18" align="center" /> **TryHackMe**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="mailto:tsfahmd01@gmail.com"><img src="logos/gmail.svg" width="18" height="18" align="center" /> **Email**</a>
 
 </div>
 
