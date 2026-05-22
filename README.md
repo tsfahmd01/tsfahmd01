@@ -24,9 +24,13 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 
 <div align="center">
 
-[![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-0078D4?style=for-the-badge&logo=shield&logoColor=white)](https://certs.ine.com/dad414b8-3065-4095-adca-dd7bdaa94c5d#acc.7x91HAKL)
-&nbsp;&nbsp;
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/YOYD5I4W8LFA)
+<a href="https://certs.ine.com/dad414b8-3065-4095-adca-dd7bdaa94c5d#acc.7x91HAKL" target="_blank">
+  <img src="badges/eJPT.png" width="120" height="120" alt="eJPT Certified" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.coursera.org/account/accomplishments/specialization/YOYD5I4W8LFA" target="_blank">
+  <img src="badges/google-cybersecurity.png" width="120" height="120" alt="Google Cybersecurity Professional Certificate" />
+</a>
 
 </div>
 
