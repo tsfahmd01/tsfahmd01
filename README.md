@@ -4,11 +4,11 @@
 
 **Hardening environments and tracking pathways — whether they run on silicon or soil.**
 
-[![LinkedIn](https://imgs.search.brave.com/YqKED7yF-aM47MzXliO2g_UlafZKcUmVOnJeMIg3SbU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxpbmtlZGluLWxv/Z28taWNvbi1zdmct/ZG93bmxvYWQtcG5n/LTQzNDc0My5wbmc_/Zj13ZWJwJnc9MTI4)](https://www.linkedin.com/in/tsfahmd01)
-[![Medium](https://img.shields.io/badge/Medium-tsfahmd01-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tsfahmd01)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2147210)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tsfahmd01)
-[![Email](https://img.shields.io/badge/Email-tsfahmd01-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsfahmd01@gmail.com)
+<a href="https://www.linkedin.com/in/tsfahmd01" target="_blank"><img src="logos/linkedin-logo.svg" width="18" height="18" align="center" /> **LinkedIn**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://medium.com/@tsfahmd01" target="_blank"><img src="logos/medium-logo.svg" width="18" height="18" align="center" /> **Medium**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/users/2147210" target="_blank"><img src="logos/hack-the-box.svg" width="18" height="18" align="center" /> **Hack The Box**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/tsfahmd01" target="_blank"><img src="logos/tryhackme.svg" width="18" height="18" align="center" /> **TryHackMe**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="mailto:tsfahmd01@gmail.com"><img src="logos/gmail.svg" width="18" height="18" align="center" /> **Email**</a>
 
 </div>
 
