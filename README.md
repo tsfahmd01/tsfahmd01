@@ -35,33 +35,33 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ## Stack
 
 ### ⚔️ Offensive & Exploitation
-<a href="https://www.metasploit.com/" target="_blank"><img src="badges/metasploit.svg?v=3" width="50" height="50" alt="Metasploit" title="Metasploit" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nmap.org/" target="_blank"><img src="badges/nmap.svg?v=3" width="50" height="50" alt="Nmap" title="Nmap" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portswigger.net/burp" target="_blank"><img src="badges/burp.svg?v=3" width="50" height="50" alt="Burp Suite" title="Burp Suite" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="badges/nessus.svg?v=3" width="50" height="50" alt="Nessus" title="Nessus" /></a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="badges/metasploit.svg?v=7" width="50" height="50" alt="Metasploit" title="Metasploit" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nmap.org/" target="_blank"><img src="badges/nmap.svg?v=7" width="50" height="50" alt="Nmap" title="Nmap" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portswigger.net/burp" target="_blank"><img src="badges/burp.svg?v=7" width="50" height="50" alt="Burp Suite" title="Burp Suite" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="badges/nessus.svg?v=7" width="50" height="50" alt="Nessus" title="Nessus" /></a>
 
 ### 🛡️ Threat Analysis & Defense
-<a href="https://www.wireshark.org/" target="_blank"><img src="badges/wireshark.svg?v=3" width="50" height="50" alt="Wireshark" title="Wireshark" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.splunk.com/" target="_blank"><img src="badges/splunk.svg?v=3" width="50" height="50" alt="Splunk" title="Splunk" /></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="badges/wireshark.svg?v=7" width="50" height="50" alt="Wireshark" title="Wireshark" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.splunk.com/" target="_blank"><img src="badges/splunk.svg?v=7" width="50" height="50" alt="Splunk" title="Splunk" /></a>
 
 ### 💻 Languages & Agentic AI
-<a href="https://www.python.org/" target="_blank"><img src="badges/python.svg?v=3" width="50" height="50" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="badges/bash.svg?v=3" width="50" height="50" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="badges/c.svg?v=3" width="50" height="50" alt="C" title="C" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank"><img src="badges/cpp.svg?v=3" width="50" height="50" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/" target="_blank"><img src="badges/agentic-ai.svg?v=3" width="50" height="50" alt="Agentic AI" title="Agentic AI" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="badges/python.svg?v=7" width="50" height="50" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="badges/bash.svg?v=7" width="50" height="50" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="badges/c.svg?v=7" width="50" height="50" alt="C" title="C" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="badges/cpp.svg?v=7" width="50" height="50" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/" target="_blank"><img src="badges/agentic-ai.svg?v=7" width="50" height="50" alt="Agentic AI" title="Agentic AI" /></a>
 
 ### 📋 Frameworks & Standards
-<a href="https://attack.mitre.org/" target="_blank"><img src="badges/mitre.svg?v=3" width="50" height="50" alt="MITRE ATT&CK" title="MITRE ATT&CK" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://owasp.org/" target="_blank"><img src="badges/owasp.svg?v=3" width="50" height="50" alt="OWASP" title="OWASP" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.nist.gov/cyberframework" target="_blank"><img src="badges/nist.svg?v=3" width="50" height="50" alt="NIST CSF" title="NIST CSF" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.iso.org/standard/27001" target="_blank"><img src="badges/iso-27001.svg?v=3" width="50" height="50" alt="ISO 27001" title="ISO 27001" /></a>
+<a href="https://attack.mitre.org/" target="_blank"><img src="badges/mitre.svg?v=7" width="50" height="50" alt="MITRE ATT&CK" title="MITRE ATT&CK" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://owasp.org/" target="_blank"><img src="badges/owasp.svg?v=7" width="50" height="50" alt="OWASP" title="OWASP" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.nist.gov/cyberframework" target="_blank"><img src="badges/nist.svg?v=7" width="50" height="50" alt="NIST CSF" title="NIST CSF" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.iso.org/standard/27001" target="_blank"><img src="badges/iso-27001.svg?v=7" width="50" height="50" alt="ISO 27001" title="ISO 27001" /></a>
 
 ### 🖥️ Systems & Platforms
-<a href="https://www.kali.org/" target="_blank"><img src="badges/kali.svg?v=3" width="50" height="50" alt="Kali Linux" title="Kali Linux" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ubuntu.com/" target="_blank"><img src="badges/ubuntu.svg?v=3" width="50" height="50" alt="Ubuntu" title="Ubuntu" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fedoraproject.org/" target="_blank"><img src="badges/fedora.svg?v=3" width="50" height="50" alt="Fedora" title="Fedora" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="badges/github.svg?v=3" width="50" height="50" alt="GitHub" title="GitHub" /></a>
+<a href="https://www.kali.org/" target="_blank"><img src="badges/kali.svg?v=7" width="50" height="50" alt="Kali Linux" title="Kali Linux" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="badges/ubuntu.svg?v=7" width="50" height="50" alt="Ubuntu" title="Ubuntu" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fedoraproject.org/" target="_blank"><img src="badges/fedora.svg?v=7" width="50" height="50" alt="Fedora" title="Fedora" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="badges/github.svg?v=7" width="50" height="50" alt="GitHub" title="GitHub" /></a>
 
 ---
 
