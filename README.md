@@ -47,7 +47,8 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ### 💻 Languages & Agentic AI
 <a href="https://www.python.org/" target="_blank"><img src="badges/python.svg" width="42" height="42" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="badges/gnubash.svg" width="42" height="42" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank"><img src="badges/cplusplus.svg" width="42" height="42" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="badges/c.svg" width="42" height="42" alt="C" title="C" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="badges/cpp.svg" width="42" height="42" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://openai.com/" target="_blank"><img src="badges/openai.svg" width="42" height="42" alt="Agentic AI" title="Agentic AI" /></a>
 
 ### 📋 Frameworks & Standards
