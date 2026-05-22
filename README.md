@@ -37,7 +37,7 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ### ⚔️ Offensive & Exploitation
 <a href="https://www.metasploit.com/" target="_blank"><img src="badges/metasploit.svg" width="42" height="42" alt="Metasploit" title="Metasploit" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nmap.org/" target="_blank"><img src="badges/nmap.svg" width="42" height="42" alt="Nmap" title="Nmap" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portswigger.net/burp" target="_blank"><img src="badges/burpsuite.svg" width="42" height="42" alt="Burp Suite" title="Burp Suite" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portswigger.net/burp" target="_blank"><img src="badges/burp.svg" width="42" height="42" alt="Burp Suite" title="Burp Suite" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="badges/nessus.svg" width="42" height="42" alt="Nessus" title="Nessus" /></a>
 
 ### 🛡️ Threat Analysis & Defense
@@ -46,19 +46,19 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 
 ### 💻 Languages & Agentic AI
 <a href="https://www.python.org/" target="_blank"><img src="badges/python.svg" width="42" height="42" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="badges/gnubash.svg" width="42" height="42" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="badges/bash.svg" width="42" height="42" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="badges/c.svg" width="42" height="42" alt="C" title="C" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank"><img src="badges/cpp.svg" width="42" height="42" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/" target="_blank"><img src="badges/openai.svg" width="42" height="42" alt="Agentic AI" title="Agentic AI" /></a>
+<a href="https://openai.com/" target="_blank"><img src="badges/agentic-ai.svg" width="42" height="42" alt="Agentic AI" title="Agentic AI" /></a>
 
 ### 📋 Frameworks & Standards
-<a href="https://attack.mitre.org/" target="_blank"><img src="badges/matrix.svg" width="42" height="42" alt="MITRE ATT&CK" title="MITRE ATT&CK" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://attack.mitre.org/" target="_blank"><img src="badges/mitre.svg" width="42" height="42" alt="MITRE ATT&CK" title="MITRE ATT&CK" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://owasp.org/" target="_blank"><img src="badges/owasp.svg" width="42" height="42" alt="OWASP" title="OWASP" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.nist.gov/cyberframework" target="_blank"><img src="badges/adguard.svg" width="42" height="42" alt="NIST CSF" title="NIST CSF" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.iso.org/standard/27001" target="_blank"><img src="badges/precommit.svg" width="42" height="42" alt="ISO 27001" title="ISO 27001" /></a>
+<a href="https://www.nist.gov/cyberframework" target="_blank"><img src="badges/nist.svg" width="42" height="42" alt="NIST CSF" title="NIST CSF" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.iso.org/standard/27001" target="_blank"><img src="badges/iso-27001.svg" width="42" height="42" alt="ISO 27001" title="ISO 27001" /></a>
 
 ### 🖥️ Systems & Platforms
-<a href="https://www.kali.org/" target="_blank"><img src="badges/kalilinux.svg" width="42" height="42" alt="Kali Linux" title="Kali Linux" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kali.org/" target="_blank"><img src="badges/kali.svg" width="42" height="42" alt="Kali Linux" title="Kali Linux" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ubuntu.com/" target="_blank"><img src="badges/ubuntu.svg" width="42" height="42" alt="Ubuntu" title="Ubuntu" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fedoraproject.org/" target="_blank"><img src="badges/fedora.svg" width="42" height="42" alt="Fedora" title="Fedora" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank"><img src="badges/github.svg" width="42" height="42" alt="GitHub" title="GitHub" /></a>
