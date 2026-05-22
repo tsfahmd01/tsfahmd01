@@ -35,52 +35,32 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ## Stack
 
 ### ⚔️ Offensive & Exploitation
-<div align="center">
-
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=rapid7&logoColor=red)
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=network&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-002F6C?style=for-the-badge&logo=tenable&logoColor=white)
-
-</div>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit" width="18" height="18" align="center" /> **Metasploit**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://nmap.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_nmap.png" width="18" height="18" align="center" /> **Nmap**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite" width="18" height="18" align="center" /> **Burp Suite**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Nessus-Professional-FullColor-RGB.svg" width="18" height="18" align="center" /> **Nessus**</a>
 
 ### 🛡️ Threat Analysis & Defense
-<div align="center">
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green)
-
-</div>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark" width="18" height="18" align="center" /> **Wireshark**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk" width="18" height="18" align="center" /> **Splunk**</a>
 
 ### 💻 Languages & Agentic AI
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4CAF50?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" width="18" height="18" align="center" /> **Python**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash" width="18" height="18" align="center" /> **Bash**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus" width="18" height="18" align="center" /> **C++**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai" width="18" height="18" align="center" /> **Agentic AI**</a>
 
 ### 📋 Frameworks & Standards
-<div align="center">
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-008080?style=for-the-badge)
-
-</div>
+🛡️ **MITRE ATT&CK** &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://owasp.org/" target="_blank"><img src="https://cdn.simpleicons.org/owasp" width="18" height="18" align="center" /> **OWASP**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+🛡️ **NIST CSF** &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+🛡️ **ISO 27001**
 
 ### 🖥️ Systems & Platforms
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux" width="18" height="18" align="center" /> **Kali Linux**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.simpleicons.org/ubuntu" width="18" height="18" align="center" /> **Ubuntu**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/fedora" width="18" height="18" align="center" /> **Fedora**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github" width="18" height="18" align="center" /> **GitHub**</a>
 
 ---
 
