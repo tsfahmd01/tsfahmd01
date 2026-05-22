@@ -35,32 +35,32 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ## Stack
 
 ### ⚔️ Offensive & Exploitation
-<a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit" width="18" height="18" align="center" /> **Metasploit**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://nmap.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_nmap.png" width="18" height="18" align="center" /> **Nmap**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite" width="18" height="18" align="center" /> **Burp Suite**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Nessus-Professional-FullColor-RGB.svg" width="18" height="18" align="center" /> **Nessus**</a>
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit" height="28" alt="Metasploit" title="Metasploit" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nmap.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_nmap.png" height="28" alt="Nmap" title="Nmap" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite" height="28" alt="Burp Suite" title="Burp Suite" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Nessus-Professional-FullColor-RGB.svg" height="28" alt="Nessus" title="Nessus" /></a>
 
 ### 🛡️ Threat Analysis & Defense
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark" width="18" height="18" align="center" /> **Wireshark**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk" width="18" height="18" align="center" /> **Splunk**</a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark" height="28" alt="Wireshark" title="Wireshark" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk" height="28" alt="Splunk" title="Splunk" /></a>
 
 ### 💻 Languages & Agentic AI
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" width="18" height="18" align="center" /> **Python**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash" width="18" height="18" align="center" /> **Bash**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus" width="18" height="18" align="center" /> **C++**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai" width="18" height="18" align="center" /> **Agentic AI**</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" height="28" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash" height="28" alt="Bash" title="Bash" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus" height="28" alt="C++" title="C++" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai" height="28" alt="Agentic AI" title="Agentic AI" /></a>
 
 ### 📋 Frameworks & Standards
-🛡️ **MITRE ATT&CK** &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://owasp.org/" target="_blank"><img src="https://cdn.simpleicons.org/owasp" width="18" height="18" align="center" /> **OWASP**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-🛡️ **NIST CSF** &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-🛡️ **ISO 27001**
+<a href="https://attack.mitre.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Mitre_Corporation_logo.svg" height="28" alt="MITRE ATT&CK" title="MITRE ATT&CK" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://owasp.org/" target="_blank"><img src="https://cdn.simpleicons.org/owasp" height="28" alt="OWASP" title="OWASP" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.nist.gov/cyberframework" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/NIST_logo.svg" height="28" alt="NIST CSF" title="NIST CSF" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.iso.org/standard/27001" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/ISO_Logo_%28Red%29.svg" height="28" alt="ISO 27001" title="ISO 27001" /></a>
 
 ### 🖥️ Systems & Platforms
-<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux" width="18" height="18" align="center" /> **Kali Linux**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.simpleicons.org/ubuntu" width="18" height="18" align="center" /> **Ubuntu**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/fedora" width="18" height="18" align="center" /> **Fedora**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github" width="18" height="18" align="center" /> **GitHub**</a>
+<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux" height="28" alt="Kali Linux" title="Kali Linux" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.simpleicons.org/ubuntu" height="28" alt="Ubuntu" title="Ubuntu" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/fedora" height="28" alt="Fedora" title="Fedora" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github" height="28" alt="GitHub" title="GitHub" /></a>
 
 ---
 
