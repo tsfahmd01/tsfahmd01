@@ -70,7 +70,7 @@ Be it system security or understanding natural ecological systems, I dive deep. 
 ### [LoMar](https://github.com/tsfahmd01/lomar)
 A local defense framework against client compromises and data poisoning attacks in Federated Learning utilizing Kernel Density Estimation over CNN feature embeddings.
 
-### [Patch2Pwn](https://github.com/tsfahmd01/Patch2Pwn)
+### [poctoPwn](https://github.com/tsfahmd01/poctoPwn)
 An active research framework evaluating the capabilities of open-source Large Language Models in generating functional exploits for memory corruption vulnerabilities using security fixes and CVE metadata.
 
 ### [Book Recommender](https://github.com/tsfahmd01/book-recommender)
