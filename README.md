@@ -2,7 +2,7 @@
 
 # Tauseef Ahmed • cyberHiker
 
-**Hardening environments and tracking pathways — whether they run on silicon or soil.**
+**In nature, species adapt or go extinct. In security, systems adapt or get breached. Keep tracking, keep hardening.**
 
 <a href="https://www.linkedin.com/in/tsfahmd01" target="_blank"><img src="logos/linkedin-logo.webp" width="18" height="18" align="center" /> **LinkedIn**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
 <a href="https://medium.com/@tsfahmd01" target="_blank"><img src="logos/medium-logo.webp" width="18" height="18" align="center" /> **Medium**</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
@@ -91,5 +91,5 @@ Simulated professional vulnerability disclosure reports (DVAS-01 & VeCom-01) dem
 ---
 
 <div align="center">
-  <sub>"In nature, species adapt or go extinct. In security, systems adapt or get breached. Keep tracking, keep hardening."</sub>
+  <sub>"Hardening environments and tracking pathways — whether they run on silicon or soil."</sub>
 </div>
